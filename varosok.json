@@ -1,0 +1,304 @@
+{
+    "varosok": [
+        {
+            "helyezes": "1",
+            "varos": "Tokió",
+            "orszag": "Japán",
+            "nepesseg": "37868229"
+        },
+        {
+            "helyezes": "2",
+            "varos": "Sanghaj",
+            "orszag": "Kína",
+            "nepesseg": "34000000"
+        },
+        {
+            "helyezes": "3",
+            "varos": "Jakarta",
+            "orszag": "Indonézia",
+            "nepesseg": "31689592"
+        },
+        {
+            "helyezes": "4",
+            "varos": "Szöul",
+            "orszag": "Dél-Korea",
+            "nepesseg": "25514000"
+        },
+        {
+            "helyezes": "5",
+            "varos": "Kanton",
+            "orszag": "Kína",
+            "nepesseg": "25000000"
+        },
+        {
+            "helyezes": "6",
+            "varos": "Peking",
+            "orszag": "Kína",
+            "nepesseg": "24900000"
+        },
+        {
+            "helyezes": "7",
+            "varos": "Manila",
+            "orszag": "Fülöp-szigetek",
+            "nepesseg": "29300000"
+        },
+        {
+            "helyezes": "8",
+            "varos": "New York",
+            "orszag": "Egyesült Államok",
+            "nepesseg": "23522861"
+        },
+        {
+            "helyezes": "9",
+            "varos": "Sencsen",
+            "orszag": "Kína",
+            "nepesseg": "23300000"
+        },
+        {
+            "helyezes": "10",
+            "varos": "Delhi",
+            "orszag": "India",
+            "nepesseg": "21753486"
+        },
+        {
+            "helyezes": "11",
+            "varos": "Mexikóváros",
+            "orszag": "Mexikó",
+            "nepesseg": "21650668"
+        },
+        {
+            "helyezes": "12",
+            "varos": "São Paulo",
+            "orszag": "Brazília",
+            "nepesseg": "21500000"
+        },
+        {
+            "helyezes": "13",
+            "varos": "Lagos",
+            "orszag": "Nigéria",
+            "nepesseg": "21000000"
+        },
+        {
+            "helyezes": "14",
+            "varos": "Mumbai",
+            "orszag": "India",
+            "nepesseg": "20748395"
+        },
+        {
+            "helyezes": "15",
+            "varos": "Kairó",
+            "orszag": "Egyiptom",
+            "nepesseg": "20500000"
+        },
+        {
+            "helyezes": "16",
+            "varos": "Vuhan",
+            "orszag": "Kína",
+            "nepesseg": "19000000"
+        },
+        {
+            "helyezes": "17",
+            "varos": "Los Angeles",
+            "orszag": "Egyesült Államok",
+            "nepesseg": "18764814"
+        },
+        {
+            "helyezes": "18",
+            "varos": "Csengtu",
+            "orszag": "Kína",
+            "nepesseg": "18100000"
+        },
+        {
+            "helyezes": "19",
+            "varos": "London",
+            "orszag": "Egyesült Királyság",
+            "nepesseg": "17587146"
+        },
+        {
+            "helyezes": "20",
+            "varos": "Dakka",
+            "orszag": "Banglades",
+            "nepesseg": "17151925"
+        },
+        {
+            "helyezes": "21",
+            "varos": "Csungking",
+            "orszag": "Kína",
+            "nepesseg": "17000000"
+        },
+        {
+            "helyezes": "22",
+            "varos": "Karacsi",
+            "orszag": "Pakisztán",
+            "nepesseg": "16900000"
+        },
+        {
+            "helyezes": "23",
+            "varos": "Moszkva",
+            "orszag": "Oroszország",
+            "nepesseg": "16855000"
+        },
+        {
+            "helyezes": "24",
+            "varos": "Oszaka",
+            "orszag": "Japán",
+            "nepesseg": "16800000"
+        },
+        {
+            "helyezes": "25",
+            "varos": "Párizs",
+            "orszag": "Franciaország",
+            "nepesseg": "15868755"
+        },
+        {
+            "helyezes": "26",
+            "varos": "Tiencsin",
+            "orszag": "Kína",
+            "nepesseg": "15400000"
+        },
+        {
+            "helyezes": "27",
+            "varos": "Isztambul",
+            "orszag": "Törökország",
+            "nepesseg": "15067724"
+        },
+        {
+            "helyezes": "28",
+            "varos": "Bangkok",
+            "orszag": "Thaiföld",
+            "nepesseg": "14626225"
+        },
+        {
+            "helyezes": "29",
+            "varos": "Kolkata",
+            "orszag": "India",
+            "nepesseg": "14617882"
+        },
+        {
+            "helyezes": "30",
+            "varos": "Irán Teherán",
+            "orszag": "Irán",
+            "nepesseg": "14595904"
+        },
+        {
+            "helyezes": "31",
+            "varos": "Hangcsou",
+            "orszag": "Kína",
+            "nepesseg": "13400000"
+        },
+        {
+            "helyezes": "32",
+            "varos": "Surabaya",
+            "orszag": "Indonézia",
+            "nepesseg": "13123948"
+        },
+        {
+            "helyezes": "33",
+            "varos": "Buenos Aires",
+            "orszag": "Argentína",
+            "nepesseg": "13074000"
+        },
+        {
+            "helyezes": "34",
+            "varos": "Hszian",
+            "orszag": "Kína",
+            "nepesseg": "12900000"
+        },
+        {
+            "helyezes": "35",
+            "varos": "Bengaluru",
+            "orszag": "India",
+            "nepesseg": "11695110"
+        },
+        {
+            "helyezes": "36",
+            "varos": "Csangcsou",
+            "orszag": "Kína",
+            "nepesseg": "11400000"
+        },
+        {
+            "helyezes": "37",
+            "varos": "Kinshasa",
+            "orszag": "Kongói Dem. Közt.",
+            "nepesseg": "12350000"
+        },
+        {
+            "helyezes": "38",
+            "varos": "Rio de Janeiro",
+            "orszag": "Brazília",
+            "nepesseg": "12330186"
+        },
+        {
+            "helyezes": "39",
+            "varos": "Santou",
+            "orszag": "Kína",
+            "nepesseg": "12000000"
+        },
+        {
+            "helyezes": "40",
+            "varos": "Nanking",
+            "orszag": "Kína",
+            "nepesseg": "11700000"
+        },
+        {
+            "helyezes": "41",
+            "varos": "Ruhr-vidék",
+            "orszag": "Németország",
+            "nepesseg": "11471732"
+        },
+        {
+            "helyezes": "42",
+            "varos": "Lahor",
+            "orszag": "Pakisztán",
+            "nepesseg": "11070000"
+        },
+        {
+            "helyezes": "43",
+            "varos": "Csinan",
+            "orszag": "Kína",
+            "nepesseg": "11000000"
+        },
+        {
+            "helyezes": "44",
+            "varos": "Csennai",
+            "orszag": "India",
+            "nepesseg": "10800253"
+        },
+        {
+            "helyezes": "45",
+            "varos": "Harbin",
+            "orszag": "Kína",
+            "nepesseg": "10500000"
+        },
+        {
+            "helyezes": "46",
+            "varos": "Lima",
+            "orszag": "Peru",
+            "nepesseg": "9886647"
+        },
+        {
+            "helyezes": "47",
+            "varos": "Chicago",
+            "orszag": "Egyesült Államok",
+            "nepesseg": "9866910"
+        },
+        {
+            "helyezes": "48",
+            "varos": "Washington",
+            "orszag": "Egyesült Államok",
+            "nepesseg": "9797063"
+        },
+        {
+            "helyezes": "49",
+            "varos": "Csengcsou",
+            "orszag": "Kína",
+            "nepesseg": "9700000"
+        },
+        {
+            "helyezes": "50",
+            "varos": "Johannesburg",
+            "orszag": "Dél-Afrika",
+            "nepesseg": "9616000"
+        }
+    ]
+}
